@@ -10,6 +10,14 @@ body {
   background-position: left top;
   font-family: "Zilla Slab", serif;
 }
+#btn-blogs{
+  background-color: darkslategrey;
+}
+
+#blogs{
+  text-decoration: none;
+  color: #9dffad;
+}
 
 .box-container {
   width: 70%;
